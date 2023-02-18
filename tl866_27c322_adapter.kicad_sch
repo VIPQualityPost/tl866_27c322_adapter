@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "tl866 27C* adapter")
+    (date "2023-02-17")
+    (rev "4.0")
+    (company "matei repair lab")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x20_Counter_Clockwise" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 1.27 25.4 0)
